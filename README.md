@@ -21,7 +21,7 @@
   * *We coded to get the video as our output and close all the windows.*
 
 ## More About HSV
-  * *Converting the color from BGR to HSV.
+  * *Converting the color from BGR to HSV.*
   * *HSV - Hue saturation value.*
   * *0-Red,120-green,240-Blue In **HSV**.*
   * *Saturation is the intensity(How much visible).**EX:** Pink is less saturated compared to red.*
