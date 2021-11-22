@@ -24,4 +24,4 @@
   * *Converting the color from BGR to HSV.
   * *HSV - Hue saturation value.*
   * *0-Red,120-green,240-Blue In **HSV**.*
-  * *Saturtion is the intensity(How much visible).**EX:** Pink is less saturated compared to red.*
+  * *Saturation is the intensity(How much visible).**EX:** Pink is less saturated compared to red.*
