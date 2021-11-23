@@ -25,6 +25,9 @@ while True:
 
     f = frame - res
     f = np.where(f == 0,image,f)
+    
+    cv2.imshow("video", frame)
+    cv2.imshow("mask", f)
 
     # Listen for ESC or q key
     if cv2.waitKey(1) & 0xFF == ord('q'):
